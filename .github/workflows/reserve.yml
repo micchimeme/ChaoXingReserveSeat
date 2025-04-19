@@ -25,9 +25,6 @@ jobs:
           sudo apt-get install build-essential libssl-dev libffi-dev  python3-dev -y
           pip install cryptography requests opencv-python
 
-      - name: Wait for specific seconds
-        run: sleep 1000 # 这里设置等待秒数，例如等待1000秒
-
       - name: run script
         env:
           USERNAMES: ${{ secrets.USERNAMES }}
