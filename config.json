@@ -3,15 +3,15 @@
         {"username": "xxxxxxxxxx",
         "password": "xxxxxxxxx",
         "time": [["10:00","14:00"],["14:00","18:00"],["18:00","22:00"]],
-        "roomid":"7958",
-        "seatid":["099"],
+        "roomid":"7957",
+        "seatid":["173"],
         "daysofweek": ["Sunday","Monday","Wednesday","Thursday","Friday","Saturday"]
     },
         {"username": "xxxxxxxxxx",
         "password": "xxxxxxxxx",
         "time": [["09:00","11:30"],["18:00","22:00"]],
-        "roomid":"7958",
-        "seatid":["099"],
+        "roomid":"7957",
+        "seatid":["173"],
         "daysofweek": ["Tuesday"]
         }
     ]
